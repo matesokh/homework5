@@ -1,3 +1,143 @@
 .nav {
-    display: inline-block;
+    display: flex;
+    width: 32px;
+    height: 13px;
+    font-weight: 700;
+    font-size: 11px;
+    padding-left: 137px;
+    padding-top: 21px;
+}
+.nav1 {
+ padding-left: 35px;
+}
+.logo {
+    position: relative;
+    left: 35px;
+    bottom: 10px;
+    width: 32px;
+    height: 32px;
+}
+.info{
+    display: flex;
+}
+.head {
+    padding-top: 42px;
+    padding-left: 165px;
+    font-size: 24px;
+    font-weight: 700;
+}
+.inf1 {
+    width: 362px;
+    height: 171px;
+    background-color: azure;
+    font-size: 10px;
+    font-weight: 700;
+}
+ .div1 {
+    padding-left: 165px;
+    padding-top: 27px;
+ }
+ .relative {
+    position: absolute;
+    top: 150px;
+    left: 210px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+ }
+ .relative2 {
+    position: absolute;
+    top: 150px;
+    padding-left: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+ }
+ .relative3 {
+    position: absolute;
+    top: 150px;
+    padding-left: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+ }
+.date {
+    display: flex;
+    padding-left: 32px;
+    padding-top: 11px;
+}
+.text1 {
+    padding-left: 32px;
+    padding-top: 68px;
+}
+.p2 {
+    padding-top: 3px;
+    padding-left: 11px;
+}
+.mainhead {
+    font-size: 24px;
+    font-weight: 800;
+    margin-left: 150px;
+    margin-top: 42px;
+}
+.mainp {
+    padding-top: 30px;
+    padding-left: 150px;
+}
+.maintext {
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    bottom: 155px;
+    left: 428px;
+}
+.mainp2 {
+    padding-top: 42px;
+    padding-left: 150px;
+}
+.mainspace {
+    display: flex;
+}
+.mainp1 {
+    margin-top: 30px;
+}
+.mainp2s {
+    margin-top: 98px;
+}
+.mainp3 {
+    margin-top: 103px;
+}
+.footer {
+    display: flex;
+    color: #818687;
+    width: 100%;
+    height: 201px;
+    background-color: #243043;
+}
+.row1 {
+    padding-left: 137px;
+    padding-top: 59px;
+}
+.ul {
+    padding-top: 14px;
+}
+.row2 {
+    padding-left: 96px;
+    padding-top: 59px;
+}
+.row3 {
+    padding-top: 59px;
+    padding-left: 118px;
+}
+.row4 {
+    padding-left: 112px;
+    padding-top: 59px;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: 400;
+}
+.row5 {
+    padding-left: 416px;
+    padding-top: 59px;
 }
